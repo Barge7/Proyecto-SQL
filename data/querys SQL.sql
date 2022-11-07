@@ -76,7 +76,7 @@ on a.actor_id = o.actor_id
 inner join film as f
 on o.film_id = f.film_id
 group by a.name
-order by count(f.title) desc;
+order by count(f.title) desc limit 5;
 
 
 
@@ -104,7 +104,7 @@ on r.inventory_id = i.inventory_id
 inner join film as f
 on i.film_id = f.film_id
 group by f.title
-order by count(r.rental_id) asc;
+order by count(r.rental_id) asc limit 3;
 
 
 
@@ -117,7 +117,7 @@ on r.inventory_id = i.inventory_id
 inner join film as f
 on i.film_id = f.film_id
 group by f.title
-order by suma desc;
+order by suma desc limit 5;
 
 
 
@@ -135,4 +135,4 @@ inner join category as c
 on o.category_id = c.category_id
 where c.name = 'horror'
 group by f.title
-order by number desc;
+order by number desc limit 3;
