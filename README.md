@@ -41,32 +41,32 @@ y sus posteriores relaciones entre tablas.
 
 Se realizan consultas sobre la base de datos creada.  
 
-# Se crea una tabla de verificación al devolver la película
+### Se crea una tabla de verificación al devolver la película
 ![verificacion](https://github.com/Barge7/Proyecto-SQL/blob/main/img/verificacion.jpg)
 
-# Creo una tabla con el cálculo de multa al davolver la película fuera de plazo. 1.5 por cada día de retraso
+### Creo una tabla con el cálculo de multa al davolver la película fuera de plazo. 1.5 por cada día de retraso
 ![retraso](https://github.com/Barge7/Proyecto-SQL/blob/main/img/retraso.jpg)
 
-# Las 5 películas que más se alquilan
+### Las 5 películas que más se alquilan
 ![cinco](https://github.com/Barge7/Proyecto-SQL/blob/main/img/cinco.jpg)
 
-# El día que más películas se alquilaron
+### El día que más películas se alquilaron
 ![dia](https://github.com/Barge7/Proyecto-SQL/blob/main/img/dia.jpg)
 
-# Recaudación por categorías
+### Recaudación por categorías
 ![recaudacion](https://github.com/Barge7/Proyecto-SQL/blob/main/img/recaudacion.jpg)
 
-# Películas en las que han participado cada actor, los 5 primeros
+### Películas en las que han participado cada actor, los 5 primeros
 ![actores](https://github.com/Barge7/Proyecto-SQL/blob/main/img/actores.jpg)
 
-# Número de películas por categoría
+### Número de películas por categoría
 ![categoria](https://github.com/Barge7/Proyecto-SQL/blob/main/img/categoria.jpg)
 
-# Las 3 películas menos alquiladas
+### Las 3 películas menos alquiladas
 ![menos](https://github.com/Barge7/Proyecto-SQL/blob/main/img/menos.jpg)
 
-# Recaudación de las películas más alquiladas, top 5
+### Recaudación de las películas más alquiladas, top 5
 ![recaudacion5](https://github.com/Barge7/Proyecto-SQL/blob/main/img/recaudacion%205.jpg)
 
-# Películas más alquiladas de la categoría horror, top 3
+### Películas más alquiladas de la categoría horror, top 3
 ![horror](https://github.com/Barge7/Proyecto-SQL/blob/main/img/horror.jpg)
